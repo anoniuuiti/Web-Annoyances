@@ -249,3 +249,7 @@ scmp.com###main-content > div.section.page-container.page:last-child > div.secti
 scmp.com###main-content > div.page-container__top-ad.top-ad:first-child
 scmp.com###content-1 > div.homepage-front.page-container > div.homepage__wrapper:nth-child(4) > div.homepage-front__section-content.section-content:last-child > div.section-content-top:first-child > div.section-content-top__main-content.main-content:first-child > div.main-content__first-row:first-child > div.first-row__main-article-section.main-article-section:first-child > div:last-child > div.coronavirus > div.coronavirus__content > div.coronavirus__wrapper:first-child > form:last-child
 finance.discuss.com.hk###table-pid527744919 > tbody > tr:first-child > td.viewthread__post-content:last-child > div.postmessage.defaultpost:nth-child(3) > div:nth-child(3)
+m.imgur.com###app > div.App >
+div.GalleryHandler:last-child >
+div.GalleryInfiniteScroll:first-child > div >
+div.GalleryHandler-postContainer:nth-child(2)
