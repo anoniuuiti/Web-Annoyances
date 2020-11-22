@@ -253,3 +253,5 @@ m.imgur.com###app > div.App >
 div.GalleryHandler:last-child >
 div.GalleryInfiniteScroll:first-child > div >
 div.GalleryHandler-postContainer:nth-child(2)
+getemoji.com##div.container:nth-child(2) > div > div.text-center:nth-child(5)
+getemoji.com##div.container:nth-child(2) > div > div.text-center:nth-child(44)
