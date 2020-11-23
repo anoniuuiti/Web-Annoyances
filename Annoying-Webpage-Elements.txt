@@ -255,3 +255,4 @@ div.GalleryInfiniteScroll:first-child > div >
 div.GalleryHandler-postContainer:nth-child(2)
 getemoji.com##div.container:nth-child(2) > div > div.text-center:nth-child(5)
 getemoji.com##div.container:nth-child(2) > div > div.text-center:nth-child(44)
+instagram.com###react-root > section._9eogI.E3X2T:last-child > div.Z_Gl2:last-child
