@@ -260,3 +260,5 @@ m.discuss.com.hk###content-area > div.grey-divider:nth-child(3)
 m.discuss.com.hk###content-area > div.grey-divider:nth-child(7)
 m.discuss.com.hk###content-area > div.grey-divider:nth-child(5)
 m.discuss.com.hk###content-area > div.grey-divider:nth-child(11)
+scmp.com###content-1 > div.homepage-front.page-container > div.homepage__wrapper:nth-child(4) > div.homepage-front__section-content.section-content:last-child > div.section-content-top:first-child > div.section-content-top__main-content.main-content:first-child > div.main-content__first-row:first-child > div.first-row__main-article-section.main-article-section:first-child > div:last-child > div.coronavirus > div.coronavirus__content > div.coronavirus__wrapper:first-child
+lihkg.com###leftPanel > div.qoAmEqNpZRLf2KVKZ8DsC:last-child > div._2MDACDy3mQLdAcOzMY-Mv7:nth-child(9) > div > div > div:first-child
