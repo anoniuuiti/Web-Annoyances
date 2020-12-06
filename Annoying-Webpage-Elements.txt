@@ -264,3 +264,7 @@ scmp.com###content-1 > div.homepage-front.page-container > div.homepage__wrapper
 lihkg.com###leftPanel > div.qoAmEqNpZRLf2KVKZ8DsC:last-child > div._2MDACDy3mQLdAcOzMY-Mv7:nth-child(9) > div > div > div:first-child
 scmp.com###content-1 > div.homepage-front.page-container > div.homepage__wrapper:nth-child(4) > div.homepage-front__section-content.section-content:last-child > div.section-content-top:first-child > div.section-content-top__main-content.main-content:first-child > div.main-content__first-row:first-child > div.first-row__main-article-section.main-article-section:first-child > div:last-child > div.coronavirus > div.coronavirus__content > div.coronavirus__wrapper:first-child
 scmp.com##.article__header-ad-slot, .header-ad-slot
+m.discuss.com.hk###content-area > div.grey-divider:nth-child(3)
+m.discuss.com.hk###content-area > div.grey-divider:nth-child(5)
+hk.mobi.yahoo.com###article-challenge-75ee2480-ff91-3fa5-8767-fd9be95a622c > div.Bxsh\(articleChallengeShadow\).Wob\(ba\).Ov\(h\).Bdrs\(8px\).Mx\(16px\).My\(20px\).Pos\(r\)
+scmp.com###content-1 > div.homepage-front.page-container > div.homepage__wrapper:nth-child(4) > div.homepage-front__section-content.section-content:last-child > div.section-content-top:first-child > div.section-content-top__main-content.main-content:first-child > div.main-content__first-row:first-child > div.first-row__main-article-section.main-article-section:first-child > div:last-child > div.coronavirus
