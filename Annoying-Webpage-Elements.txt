@@ -271,10 +271,23 @@ scmp.com###content-1 > div.homepage-front.page-container > div.homepage__wrapper
 moto7.net##div.main-wrap:first-child > div.main.wrap.cf:nth-child(4) > div.post-wrap.post-149897.post.type-post.status-publish.format-standard.has-post-thumbnail.category-small-bike.tag-honda.tag-honda-monkey-125.tag-117.tag-featured > div.row:last-child > div.content-ad-area:first-child
 v2rayssr.com###primary-home > article.single-article.b2-radius.box:first-child > div.single-top-html:first-child
 v2rayssr.com###primary-home > div.single-bottom-html.mg-b.box.b2-radius:nth-child(3)
-
 v2rayssr.com###primary-home > div.single-bottom-html.mg-b.box.b2-radius:nth-child(3)
 v2rayssr.com###primary-home > div.mobile-hidden.home_row.home_row_4.module-html:last-child > div.wrapper
-scmp.com/*##.search-page__header-ad-container
-scmp.com/*##fixed-bottom-bar-yir2019 __web-inspector-hide-shortcut__" id="slide
-scmp.com/*##content_inner
-scmp.com/*##bottom-bar-close-button
+scmp.com##fixed-bottom-bar-yir2019 hide
+scmp.com##.fixed-bottom-bar-yir2019 hide
+scmp.com##bottom-bar-close-button
+scmp.com##.bottom-bar-close-button
+scmp.com##smart-banner
+scmp.com##.smart-banner
+scmp.com##notification-container
+scmp.com##.notification-container
+scmp.com##page-container__top-ad top-ad
+scmp.com##.page-container__top-ad top-ad
+scmp.com##page-container__bottom-ad bottom-ad
+scmp.com##.page-container__bottom-ad bottom-ad
+scmp.com##bottom-ad__outer
+scmp.com##.bottom-ad__outer
+scmp.com##swiper-slide wrapper__slide.slide
+scmp.com##.swiper-slide wrapper__slide.slide
+scmp.com##content-3.slide__content
+scmp.com##.content-3.slide__content
