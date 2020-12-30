@@ -274,3 +274,7 @@ v2rayssr.com###primary-home > div.single-bottom-html.mg-b.box.b2-radius:nth-chil
 
 v2rayssr.com###primary-home > div.single-bottom-html.mg-b.box.b2-radius:nth-child(3)
 v2rayssr.com###primary-home > div.mobile-hidden.home_row.home_row_4.module-html:last-child > div.wrapper
+scmp.com/*##.search-page__header-ad-container
+scmp.com/*##fixed-bottom-bar-yir2019 __web-inspector-hide-shortcut__" id="slide
+scmp.com/*##content_inner
+scmp.com/*##bottom-bar-close-button
