@@ -117,17 +117,6 @@ finance.discuss.com.hk##.adsbygoogle
 finance.discuss.com.hk##.floating, .showpx1
 ###subhead
 discuss.com.hk##.ranking-homepage-container
-###featuread
-soccer.sina.com.hk##.adv
-###pinp
-soccer.sina.com.hk##.adsbygoogle
-soccer.sina.com.hk###content > div.main-bottom:last-child > div.row.nwlist-bg:nth-child(4) > div.news-item:nth-child(7)
-soccer.sina.com.hk###content > div.main-bottom:last-child > div.row.nwlist-bg:nth-child(4) > div.news-item:nth-child(6)
-soccer.sina.com.hk###content > div.main-bottom:last-child > div.row.nwlist-bg:nth-child(3) > div.news-item:nth-child(6)
-soccer.sina.com.hk###content > div.main-bottom:last-child > div.row.nwlist-bg:nth-child(3) > div.news-item:nth-child(7)
-soccer.sina.com.hk###page > footer:last-child
-soccer.sina.com.hk##.news-listing-vote
-soccer.sina.com.hk##.news_listing_hottest
 ###contact-and-cooperation
 movie.douban.com##.contact, .mod
 ###footer
