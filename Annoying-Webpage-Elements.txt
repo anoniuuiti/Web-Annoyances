@@ -280,3 +280,6 @@ scmp.com##swiper-slide wrapper__slide.slide
 scmp.com##.swiper-slide wrapper__slide.slide
 scmp.com##content-3.slide__content
 scmp.com##.content-3.slide__content
+cn.nytimes.com##.article-body-aside, .col-lg-3
+scmp.com###main-content > div.author-content.page:first-child > div.content-wrapper:first-child > div.content-box:last-child > div.author-wrapper:last-child > div.author-wrapper-bottom:last-child > div.wrapper-bottom-left:first-child > div.wrapper-bottom-left__ad-container:nth-child(6)
+deepl.com##.dl_app_popup
