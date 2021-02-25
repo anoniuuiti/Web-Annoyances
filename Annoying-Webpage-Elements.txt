@@ -3,3 +3,10 @@ lihkg.com##._3omJTNzI7U7MErH1Cfr3gE
 lihkg.com##._2MDACDy3mQLdAcOzMY-Mv7
 lihkg.com##._1ND4IvZZQRokGesVd9vq9W
 lihkg.com###app > div.K8RRn4bHyCRrG1IjoFbTr:last-child
+mobile01.com###div-gpt-ad-1564559378500-0
+youtube.com###masthead-ad
+google.com##.LHJvCe
+google.com##.TbwUpd, .NJjxre
+google.com##.eFM0qc
+google.com##.sp-separator
+google.com##.ULSxyf
