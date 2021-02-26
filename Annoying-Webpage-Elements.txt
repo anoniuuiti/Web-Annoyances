@@ -8,5 +8,4 @@ youtube.com###masthead-ad
 google.com##.LHJvCe
 google.com##.TbwUpd, .NJjxre
 google.com##.eFM0qc
-google.com##.sp-separator
 google.com##.ULSxyf
