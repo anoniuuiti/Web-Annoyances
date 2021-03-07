@@ -11,3 +11,7 @@ google.com##.eFM0qc
 google.com##.ULSxyf
 google.com.hk##.xTFaxe, .z1asCe, .SaPW2b
 scmp.com###main-content > div.section.page-container.page:last-child > div.section-page-wrapper:first-child > div.section__content-container.content-container:last-child > div.section__content.section-content:nth-child(2) > div.section-content__main-content.main-content:first-child > div.main-content__first-row.first-row > div.section__main-article-section.main-article-section:first-child > div.section__main-article-section__mobile-wide-ad-container-1.mobile-wide-ad-container-1:nth-child(2)
+scmp.com##.page-container__left-native-ad-container
+scmp.com##.forth-row__advertisers, .advertisers
+scmp.com##.middle-diff-area
+@@||cdn1.i-scmp.com/sites/default/files/styles/300x250/public/topics/$domain=scmp.com,important
