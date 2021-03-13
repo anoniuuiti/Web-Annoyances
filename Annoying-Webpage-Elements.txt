@@ -16,3 +16,5 @@ scmp.com##.forth-row__advertisers, .advertisers
 scmp.com##.middle-diff-area
 @@||cdn1.i-scmp.com/sites/default/files/styles/300x250/public/topics/$domain=scmp.com,important
 @@||cdn.i-scmp.com/sites/default/files/styles/300x250/public/d8/topics/$domain=scmp.com,important
+scmp.com##.link-text
+scmp.com##.youtube-video-container__container
