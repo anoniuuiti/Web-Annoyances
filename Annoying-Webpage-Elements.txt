@@ -28,3 +28,4 @@ hk.news.yahoo.com###module-mktBanner
 hk.news.yahoo.com##.caas-follow
 scmp.com##.bookmark-container__icon-wrapper, .bookmark-container__icon-wrapper--inactive
 scmp.com##.swiper-slider, .swiper-relate-article-wrapper
+scmp.com###credential_picker_container > iframe
