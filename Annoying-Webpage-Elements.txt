@@ -19,3 +19,4 @@ scmp.com##.middle-diff-area
 scmp.com##.link-text
 scmp.com##.youtube-video-container__container
 scmp.com##.youtube-video-container__footer-title-wrapper
+scmp.com##.forth-row__advertisers, .advertisers
