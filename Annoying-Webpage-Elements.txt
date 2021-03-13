@@ -20,3 +20,5 @@ scmp.com##.link-text
 scmp.com##.youtube-video-container__container
 scmp.com##.youtube-video-container__footer-title-wrapper
 scmp.com##.forth-row__advertisers, .advertisers
+hk.news.yahoo.com##.sticky-inner-wrapper
+hk.news.yahoo.com##.share-open-button, .O\(0\)\:f, .Bd\(0\), .react-button
