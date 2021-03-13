@@ -22,3 +22,9 @@ scmp.com##.youtube-video-container__footer-title-wrapper
 scmp.com##.forth-row__advertisers, .advertisers
 hk.news.yahoo.com##.sticky-inner-wrapper
 hk.news.yahoo.com##.share-open-button, .O\(0\)\:f, .Bd\(0\), .react-button
+hk.news.yahoo.com##.caas-share-section
+hk.news.yahoo.com##.BdT, .Bdc\(t\)
+hk.news.yahoo.com###module-mktBanner
+hk.news.yahoo.com##.caas-follow
+scmp.com##.bookmark-container__icon-wrapper, .bookmark-container__icon-wrapper--inactive
+scmp.com##.swiper-slider, .swiper-relate-article-wrapper
