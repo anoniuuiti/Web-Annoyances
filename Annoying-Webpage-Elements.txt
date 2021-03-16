@@ -10,16 +10,8 @@ google.com##.TbwUpd, .NJjxre
 google.com##.eFM0qc
 google.com##.ULSxyf
 google.com.hk##.xTFaxe, .z1asCe, .SaPW2b
-scmp.com###main-content > div.section.page-container.page:last-child > div.section-page-wrapper:first-child > div.section__content-container.content-container:last-child > div.section__content.section-content:nth-child(2) > div.section-content__main-content.main-content:first-child > div.main-content__first-row.first-row > div.section__main-article-section.main-article-section:first-child > div.section__main-article-section__mobile-wide-ad-container-1.mobile-wide-ad-container-1:nth-child(2)
-scmp.com##.page-container__left-native-ad-container
-scmp.com##.forth-row__advertisers, .advertisers
-scmp.com##.middle-diff-area
 @@||cdn1.i-scmp.com/sites/default/files/styles/300x250/public/topics/$domain=scmp.com,important
 @@||cdn.i-scmp.com/sites/default/files/styles/300x250/public/d8/topics/$domain=scmp.com,important
-scmp.com##.link-text
-scmp.com##.youtube-video-container__container
-scmp.com##.youtube-video-container__footer-title-wrapper
-scmp.com##.forth-row__advertisers, .advertisers
 hk.news.yahoo.com##.sticky-inner-wrapper
 hk.news.yahoo.com##.share-open-button, .O\(0\)\:f, .Bd\(0\), .react-button
 hk.news.yahoo.com##.caas-share-section
