@@ -18,3 +18,5 @@ hk.news.yahoo.com##.caas-share-section
 hk.news.yahoo.com##.BdT, .Bdc\(t\)
 hk.news.yahoo.com###module-mktBanner
 hk.news.yahoo.com##.caas-follow
+hk.mobi.yahoo.com###app > div > div.Pos\(f\).Start\(0\).End\(0\).B\(0\).Cur\(p\).Z\(10\):last-child > div.Bgc\(\#444\).W\(a\).Bdrs\(5px\).My\(10px\).Mx\(10px\).Pos\(r\).P\(12px\)
+hk.mobi.yahoo.com###article-challenge-bb2f2b68-10c7-3c85-a81e-291d75325858
