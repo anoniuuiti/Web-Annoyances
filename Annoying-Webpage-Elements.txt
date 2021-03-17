@@ -27,3 +27,4 @@ theguardian.com##.css-1ey43xh-straightLines-fourLines-Lines
 theguardian.com##.css-1fznh52
 economist.com##.layout-article-promo
 economist.com##.article-audio-player
+lihkg.com##.T69kXMHY3_dR6eDsb5jld
