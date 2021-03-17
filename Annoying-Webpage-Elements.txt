@@ -20,3 +20,10 @@ hk.news.yahoo.com###module-mktBanner
 hk.news.yahoo.com##.caas-follow
 hk.mobi.yahoo.com###app > div > div.Pos\(f\).Start\(0\).End\(0\).B\(0\).Cur\(p\).Z\(10\):last-child > div.Bgc\(\#444\).W\(a\).Bdrs\(5px\).My\(10px\).Mx\(10px\).Pos\(r\).P\(12px\)
 hk.mobi.yahoo.com###article-challenge-bb2f2b68-10c7-3c85-a81e-291d75325858
+theguardian.com##.css-8b81c8
+theguardian.com##.js-ad-slot, .ad-slot, .ad-slot--im
+theguardian.com##.css-9aekbr
+theguardian.com##.css-1ey43xh-straightLines-fourLines-Lines
+theguardian.com##.css-1fznh52
+economist.com##.layout-article-promo
+economist.com##.article-audio-player
