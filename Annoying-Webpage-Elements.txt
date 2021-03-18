@@ -29,4 +29,8 @@ economist.com##.layout-article-promo
 economist.com##.article-audio-player
 lihkg.com##.T69kXMHY3_dR6eDsb5jld
 scmp.com###main-content > div.section.page-container.page:last-child > div.section-page-wrapper:first-child > div.section__content-container.content-container:last-child > div.section__content.section-content:nth-child(2) > div.section-content__main-content.main-content:first-child > div.main-content__first-row.first-row > div.section__main-article-section.main-article-section:first-child > div.section__main-article-section__mobile-wide-ad-container-1.mobile-wide-ad-container-1:nth-child(2)
+scmp.com##.third-slot__desktop-nativeAd
+scmp.com##.second-row__external-content, .external-content
+scmp.com##.second-row__left-external-content, .left-external-content, .most-popular-content
+scmp.com##.forth-row__more-on-scmp-sections, .more-on-scmp-sections
 lihkg.com##.i-dots-horizontal, .RShOJL_DxoIHgMmNd0nlJ
