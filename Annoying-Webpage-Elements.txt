@@ -41,3 +41,4 @@ scmp.com##.second-row__external-content, .external-content
 scmp.com##.second-row__left-external-content, .left-external-content, .most-popular-content
 scmp.com##.forth-row__more-on-scmp-sections, .more-on-scmp-sections
 lihkg.com##.i-dots-horizontal, .RShOJL_DxoIHgMmNd0nlJ
+##.goog-te-banner-frame, .skiptranslate
