@@ -42,3 +42,7 @@ scmp.com##.second-row__left-external-content, .left-external-content, .most-popu
 scmp.com##.forth-row__more-on-scmp-sections, .more-on-scmp-sections
 lihkg.com##.i-dots-horizontal, .RShOJL_DxoIHgMmNd0nlJ
 ##.goog-te-banner-frame, .skiptranslate
+scmp.com###main-content > div.section.page-container.page:last-child > div.section-page-wrapper:first-child > div.section__content-container.content-container:last-child > div.section__content.section-content:nth-child(2) > div.section-content__main-content.main-content:first-child > div.main-content__first-row.first-row > div.section__main-article-section.main-article-section:first-child > div.section__main-article-section__mobile-wide-ad-container-1.mobile-wide-ad-container-1:nth-child(2)
+m.mingpao.com###footer_nav
+theguardian.com##section.css-1esahrh:nth-child(3) > div.css-7i96d9 > div.css-l5n1bw > div.css-1nupfq9:nth-child(3) > div.css-krkkhw > div.css-1b6n4o1 > div:last-child
+hk.yahoo.com###app > div > div.Pos\(f\).Start\(0\).End\(0\).B\(0\).Cur\(p\).Z\(10\):last-child > div.Bgc\(\#444\).W\(a\).Bdrs\(5px\).My\(10px\).Mx\(10px\).Pos\(r\).P\(12px\)
