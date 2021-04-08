@@ -52,3 +52,8 @@ hk.jobsdb.com###contentContainer > div > div.FYwKg._3VCZm._1oSMT_0._2lrrP:last-c
 hk.jobsdb.com###contentContainer > div > div.FYwKg._3VCZm._1oSMT_0._2lrrP:last-child > div.FYwKg.fB92N_0._1yPon_0._1pAdR_0._1WtCj_0 > div.FYwKg._3RqUb_0._85X-f_0._1YKq0_0._2wyod_0 > div.FYwKg:nth-child(2) > div.FYwKg._3qNFt_0:last-child > div.FYwKg._2Bz3E._2II51_0._1lyEa.IC4bo_0._3i7ia._3ucB1_0._2VNVi_0 > div.FYwKg._1uk_1._1Epz5._3Ve9Z:last-child > div.FYwKg._1GAuD.fB92N_0._2JU1c_0.hLznC_0._3f7MY_0._3ftyQ._3hAhl_0._3i7ia._1tfFt > div.FYwKg.d7v3r._2uGS9_0:last-child > div.FYwKg.zoxBO_0:last-child
 hk.jobsdb.com###contentContainer > div > div.FYwKg._3VCZm._1oSMT_0._2lrrP:last-child > div.FYwKg.fB92N_0._1yPon_0._1pAdR_0._1WtCj_0 > div.FYwKg._3RqUb_0._85X-f_0._1YKq0_0._2wyod_0 > div.FYwKg:nth-child(2) > div.FYwKg._3qNFt_0:last-child > div.FYwKg._2Bz3E._2II51_0._1lyEa.IC4bo_0._3i7ia._3ucB1_0._2VNVi_0 > div.FYwKg._1uk_1._1Epz5._3Ve9Z:last-child > div.FYwKg._1GAuD.fB92N_0._2JU1c_0.hLznC_0._3f7MY_0._3ftyQ._3hAhl_0._3i7ia._1tfFt
 google.com###gb > div.gb_Xd.gb_Ta.gb_Jd > div:nth-child(4) > iframe
+scmp.com##.newsletter__container, .newsletter--black, .newsletter--vertical, .newsletter--border-dark
+office.com##.feedback-header
+economist.com##.article__aside
+economist.com###footer-classifieds
+economist.com###column-right
