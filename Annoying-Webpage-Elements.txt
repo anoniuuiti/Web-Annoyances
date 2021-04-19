@@ -57,3 +57,5 @@ office.com##.feedback-header
 economist.com##.article__aside
 economist.com###footer-classifieds
 economist.com###column-right
+scmp.com##.super-section__header-ad-slot-wrapper
+scmp.com##.share-widget__desktop
