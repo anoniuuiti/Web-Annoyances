@@ -61,3 +61,5 @@ scmp.com##.super-section__header-ad-slot-wrapper
 scmp.com##.share-widget__desktop
 scmp.com###credential_picker_container > iframe
 unwire.hk###cookie
+wired.com###failsafe-clickthrough > div.paywall-modal__container:last-child > div.paywall-modal__content.cm-failsafe
+wired.com###app-root > div.page.page-theme-standard.page--article > div.sc-fujyAs.eysHZq:nth-child(6)
