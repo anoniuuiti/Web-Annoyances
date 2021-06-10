@@ -65,3 +65,4 @@ wired.com###failsafe-clickthrough > div.paywall-modal__container:last-child > di
 wired.com###app-root > div.page.page-theme-standard.page--article > div.sc-fujyAs.eysHZq:nth-child(6)
 scmp.com##.custom-banner--wrapper
 https://accounts.google.com/gsi/iframe/select?client_id=162566681241-9friud7g8i7e5aj9q6ahfr08sfbct8hg.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&state=%7B%22destination%22%3A%22https%3A%2F%2Fwww.scmp.com%2Feconomy%2Fchina-economy%2Farticle%2F3136503%2Fwhy-chinas-youth-are-lying-flat-protest-their-bleak-economic%22%2C%22callbackUrl%22%3A%22https%3A%2F%2Fwww.scmp.com%2Fcentralize%2Fsignin%3Fnonce%3D%22%2C%22appID%22%3A%22325477%22%2C%22gaProfileID%22%3A%22UA-6891676-1%22%7D&as=rwZ4vHtvvm9w9zgnx9lTtA&channel_id=be539c685df627ebebe6dc66786336677c90836536315f4acb33f0c8ab40cf4d&origin=https%3A%2F%2Fwww.scmp.com$domain=scmp.com
+scmp.com###credential_picker_container > iframe
