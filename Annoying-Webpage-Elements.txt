@@ -71,3 +71,4 @@ hk.yahoo.com###dialogue-wrapper > div.Pos\(a\).End\(0\).B\(0\) > div.wafer-toolt
 hk.yahoo.com###dialogue-wrapper > div.Pos\(a\).End\(0\).B\(0\) > div.wafer-tooltip.has-tooltip-click.has-wafer-click.wafer-tooltip-done:first-child > div.wafer-tooltip-wrapper:last-child
 scmp.com##.header-top-container
 scmp.com###credential_picker_container > iframe
+outlook.live.com##._1fti_QgAzqGWPGlqh_FSvI
