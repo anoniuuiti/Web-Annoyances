@@ -72,3 +72,4 @@ hk.yahoo.com###dialogue-wrapper > div.Pos\(a\).End\(0\).B\(0\) > div.wafer-toolt
 scmp.com##.header-top-container
 scmp.com###credential_picker_container > iframe
 outlook.live.com##._1fti_QgAzqGWPGlqh_FSvI
+hk.news.yahoo.com###goldenGate
