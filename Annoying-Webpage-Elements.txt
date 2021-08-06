@@ -75,4 +75,4 @@ outlook.live.com##._1fti_QgAzqGWPGlqh_FSvI
 hk.news.yahoo.com###goldenGate
 https://www.scmp.com/static/pages/dpa-calendar.html$domain=scmp.com
 soccer.sina.com.hk#@#.share
-v2ex.com##.adsbygoogle
+##.adsbygoogle
