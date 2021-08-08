@@ -77,4 +77,3 @@ https://www.scmp.com/static/pages/dpa-calendar.html$domain=scmp.com
 soccer.sina.com.hk#@#.share
 ##.adsbygoogle
 v2ex.com##.adsbygoogle
-##.adsbygoogle
