@@ -79,3 +79,4 @@ soccer.sina.com.hk#@#.share
 v2ex.com##.adsbygoogle
 hk.jobsdb.com###contentContainer > div > div.sx2jih0.zcydq82c.zcydq82i._1xiw5030:nth-child(2) > div.sx2jih0.zcydq842.zcydq84r.zcydq852.zcydq85r > div.sx2jih0.zcydq87e.zcydq87s.zcydq86e.zcydq86s > div.sx2jih0:nth-child(2) > div.sx2jih0._3qNFt_0:last-child > div.sx2jih0.zcydq82q.zcydq833.zcydq8d2.zcydq8cv.zcydq8ci.lm2olz0.lm2olza > div.sx2jih0.zcydq82e.zcydq8di._16wtmva0:last-child
 hk.jobsdb.com###contentContainer > div > div.sx2jih0.zcydq82c.zcydq82i._1xiw5030:nth-child(2) > div.sx2jih0.zcydq842.zcydq84r.zcydq852.zcydq85r > div.sx2jih0.zcydq87e.zcydq87s.zcydq86e.zcydq86s > div.sx2jih0.zcydq84e.zcydq84n:last-child
+v2ex.com###Wrapper > div.content > div.box:last-child > div.inner:first-child > div.sidebar_units:first-child
