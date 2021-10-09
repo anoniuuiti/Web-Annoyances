@@ -83,3 +83,6 @@ hk.jobsdb.com###contentContainer > div > div.sx2jih0.zcydq82c.zcydq82i._1xiw5030
 v2ex.com###Wrapper > div.content > div.box:last-child > div.inner:first-child > div.sidebar_units:first-child
 hk01.com###__next > div.o4febr-0.euMltm.app-wrapper.page-article.break-words.theme-zoneNews.text-black-78.a1ljb0yz > div.pt-navBarMobile.lg\:pt-navBarDesktop.flex-grow.flex-shrink-0.page-wrapper.wip3h7m:nth-child(5) > div.fixed.bottom-0.right-0.left-0.bg-white.z-mobileLcsStack.md\:hidden:nth-child(3)
 marijuanamoment.net###boxzilla-6222
+youtube.com###end
+youtube.com###voice-search-button
+youtube.com###header
