@@ -86,3 +86,4 @@ marijuanamoment.net###boxzilla-6222
 youtube.com###end
 youtube.com###chips-wrapper
 youtube.com###header
+m.youtube.com###menu > div.menu-content.menu-show-icons > ytm-multi-page-menu-renderer > div > ytm-privacy-tos-footer-renderer:last-child > div.privacy-tos-footer-container
