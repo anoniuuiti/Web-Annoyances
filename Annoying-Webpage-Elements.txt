@@ -86,4 +86,4 @@ marijuanamoment.net###boxzilla-6222
 m.youtube.com###menu > div.menu-content.menu-show-icons > ytm-multi-page-menu-renderer > div > ytm-privacy-tos-footer-renderer:last-child > div.privacy-tos-footer-container
 youtube.com###end
 m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > ytm-slim-video-metadata-section-renderer.scwnr-content:nth-child(2) > ytm-watch-metadata-app-promo-renderer:nth-child(2)
-www.scmp.com##.top-ad.article-page-outer__top-ad
+www.scmp.com##.article-page-outer .top-ad
