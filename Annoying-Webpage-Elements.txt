@@ -87,3 +87,19 @@ m.youtube.com###menu > div.menu-content.menu-show-icons > ytm-multi-page-menu-re
 youtube.com###end
 m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > ytm-slim-video-metadata-section-renderer.scwnr-content:nth-child(2) > ytm-watch-metadata-app-promo-renderer:nth-child(2)
 www.scmp.com##.article-page-outer .top-ad
+! 2021-10-26 https://hk.news.yahoo.com
+hk.news.yahoo.com##.Mx\(a\).Bdstarts\(s\).Bdendw\(20px\).Bdends\(s\).Bdendc\(t\).Bdstartw\(20px\).Bdstartc\(t\).Bxz\(bb\).Maw\(1260px\).YDC-Lead
+
+! 2021-10-26 https://hk.sports.yahoo.com
+hk.sports.yahoo.com##div.HideBottomBar_H\(0\).Trs\(\$adTranslate\).Ov\(h\):nth-of-type(1)
+
+! 2021-10-26 https://hk.yahoo.com
+hk.yahoo.com###footer-wrapper
+
+! 2021-10-26 https://soccer.sina.com.hk
+soccer.sina.com.hk###pinp
+soccer.sina.com.hk###pinp2
+soccer.sina.com.hk##.nw_ad_facebook
+soccer.sina.com.hk##div.news-item:nth-of-type(6)
+soccer.sina.com.hk##div.news-item:nth-of-type(7)
+soccer.sina.com.hk##.news-listing-vote
