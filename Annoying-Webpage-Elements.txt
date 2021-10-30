@@ -104,3 +104,4 @@ soccer.sina.com.hk##div.news-item:nth-of-type(6)
 soccer.sina.com.hk##div.news-item:nth-of-type(7)
 soccer.sina.com.hk##.news-listing-vote
 google.com.*###taw
+youtube.com.*###contents > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer:nth-child(7)
