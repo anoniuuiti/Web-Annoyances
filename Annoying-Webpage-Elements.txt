@@ -106,3 +106,4 @@ soccer.sina.com.hk##.news-listing-vote
 google.com.*###taw
 google.com###taw
 youtube.com###contents > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer:nth-child(7)
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
