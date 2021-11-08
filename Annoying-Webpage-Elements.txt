@@ -130,3 +130,4 @@ hk.news.yahoo.com##.MAST-status-ok.Ta\(c\).Mb\(24px\).Mt\(20px\)
 
 ! 2021-10-26 https://hk.finance.yahoo.com
 hk.finance.yahoo.com###Lead-1-Ad-Proxy > div
+##.middle-section.main-article-section__middle-section
