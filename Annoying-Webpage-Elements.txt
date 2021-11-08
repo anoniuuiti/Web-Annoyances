@@ -106,3 +106,4 @@ soccer.sina.com.hk##.news-listing-vote
 
 m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > ytm-item-section-renderer.scwnr-content:nth-child(4)
 m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > ytm-item-section-renderer.scwnr-content:nth-child(4) > lazy-list
+##.header-ad-slot.article__header-ad-slot
