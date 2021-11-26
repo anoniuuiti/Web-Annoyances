@@ -131,3 +131,16 @@ hk.news.yahoo.com##.MAST-status-ok.Ta\(c\).Mb\(24px\).Mt\(20px\)
 ! 2021-10-26 https://hk.finance.yahoo.com
 hk.finance.yahoo.com###Lead-1-Ad-Proxy > div
 ##.middle-section.main-article-section__middle-section
+
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > ytm-item-section-renderer.scwnr-content:nth-child(4)
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > ytm-item-section-renderer.scwnr-content:nth-child(4)
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > ytm-item-section-renderer.scwnr-content:nth-child(4)
+m.youtube.com###player-control-container > ytm-custom-control > div.player-controls-background:first-child > ytm-paid-content-overlay-renderer.hidden > a.ytm-paid-content-overlay-link
+hk.news.yahoo.com###footer-1-BackToTop > div.Bxz\(bb\).Bgc\(\#abaeb7\).Bdrs\(3px\).Op\(\.66\).Pos\(r\).P\(12px\).Fz\(0\).Z\(10\).Cur\(p\).Zoom\(1\)
+m.soccer.sina.com.hk###content > div.row:nth-child(6)
+m.soccer.sina.com.hk###content > div.row:last-child > div
+m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div:nth-child(7)
+google.com.hk###stUuGf > div > div.FAVrq.VDgVie.it9gVe.gdwOPe.mB14jb.eofmDb:last-child > div.uysxde.KKUuQd > div.LXauYe
+m.soccer.sina.com.hk###content > div.row:nth-child(8) > div
+scmp.com###main-content > div.author-content.page:first-child > div.content-wrapper:first-child > div.content-box:last-child > div.author-wrapper:last-child > div.author-wrapper-bottom:last-child > div.wrapper-bottom-left:first-child > div.wrapper-bottom-left__ad-container:nth-child(6)
+instagram.com###react-root > div > div > section._9eogI.E3X2T:last-child > div.Z_Gl2:last-child > div.qF0y9.Igw0E.rBNOH.YBx95._4EzTm.HVWg4
