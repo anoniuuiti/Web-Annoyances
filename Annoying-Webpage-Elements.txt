@@ -145,7 +145,6 @@ m.soccer.sina.com.hk###content > div.row:nth-child(8) > div
 scmp.com###main-content > div.author-content.page:first-child > div.content-wrapper:first-child > div.content-box:last-child > div.author-wrapper:last-child > div.author-wrapper-bottom:last-child > div.wrapper-bottom-left:first-child > div.wrapper-bottom-left__ad-container:nth-child(6)
 instagram.com###react-root > div > div > section._9eogI.E3X2T:last-child > div.Z_Gl2:last-child > div.qF0y9.Igw0E.rBNOH.YBx95._4EzTm.HVWg4
 youtube.com###masthead-ad
-m.soccer.sina.com.hk###mainHeader > div.logo_area:nth-child(2) > a:last-child > img
 m.soccer.sina.com.hk###content > div.row:nth-child(6)
 m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div:nth-child(7)
 m.soccer.sina.com.hk###content > div.row:nth-child(6)
