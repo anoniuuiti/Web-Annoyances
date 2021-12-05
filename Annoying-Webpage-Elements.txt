@@ -143,3 +143,4 @@ m.soccer.sina.com.hk###content > div.row:nth-child(6) > div
 m.soccer.sina.com.hk###content > div.row:last-child > div
 m.soccer.sina.com.hk###content > div.row:nth-child(8) > div
 instagram.com###react-root > div > div > section._9eogI.E3X2T:last-child > div.Z_Gl2:last-child > div.qF0y9.Igw0E.rBNOH.YBx95._4EzTm.HVWg4
+m.soccer.sina.com.hk###mainHeader > div.logo_area:nth-child(2) > a:last-child > img
