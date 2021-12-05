@@ -145,3 +145,4 @@ m.soccer.sina.com.hk###mainHeader > div.logo_area:nth-child(2) > a:last-child > 
 youtube.com###masthead-ad > ytd-banner-promo-renderer.style-scope.ytd-rich-grid-renderer
 hk.news.yahoo.com###module-stream > ul.List\(n\).P\(0\).stream-items:first-child > li.stream-ad.native-ad-item:nth-child(2) > div.Mx\(-20px\).Mt\(11px\).Px\(0\).Pos\(r\).stream-item.has-beacon-click.has-wafer-click.wafer-beacon-loaded.wafer-destroyed > div.Pos\(r\) > div.wafer-video.Pb\(56\.25\%\).H\(0\).Pos\(r\).wafer-video-complete
 sspai.com###btn-call-app
+youtube.com###end
