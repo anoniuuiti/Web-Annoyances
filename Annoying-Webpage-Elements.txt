@@ -146,3 +146,4 @@ youtube.com###masthead-ad > ytd-banner-promo-renderer.style-scope.ytd-rich-grid-
 hk.news.yahoo.com###module-stream > ul.List\(n\).P\(0\).stream-items:first-child > li.stream-ad.native-ad-item:nth-child(2) > div.Mx\(-20px\).Mt\(11px\).Px\(0\).Pos\(r\).stream-item.has-beacon-click.has-wafer-click.wafer-beacon-loaded.wafer-destroyed > div.Pos\(r\) > div.wafer-video.Pb\(56\.25\%\).H\(0\).Pos\(r\).wafer-video-complete
 sspai.com###btn-call-app
 youtube.com###end
+m.youtube.com###header-bar > header.mobile-topbar-header.cbox > div.mobile-topbar-header-content.non-search-mode.cbox:last-child > ytm-topbar-menu-button-renderer:last-child > button.icon-button.topbar-menu-button-avatar-button
