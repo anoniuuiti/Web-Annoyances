@@ -147,3 +147,4 @@ hk.news.yahoo.com###module-stream > ul.List\(n\).P\(0\).stream-items:first-child
 sspai.com###btn-call-app
 youtube.com###end
 m.youtube.com###header-bar > header.mobile-topbar-header.cbox > div.mobile-topbar-header-content.non-search-mode.cbox:last-child > ytm-topbar-menu-button-renderer:last-child > button.icon-button.topbar-menu-button-avatar-button
+m.youtube.com###header-bar > header.mobile-topbar-header.cbox > div.mobile-topbar-header-content.non-search-mode.cbox:last-child > ytm-topbar-menu-button-renderer:last-child
