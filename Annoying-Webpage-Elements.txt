@@ -143,3 +143,5 @@ m.soccer.sina.com.hk###content > div.row:nth-child(8) > div
 instagram.com###react-root > div > div > section._9eogI.E3X2T:last-child > div.Z_Gl2:last-child > div.qF0y9.Igw0E.rBNOH.YBx95._4EzTm.HVWg4
 m.soccer.sina.com.hk###mainHeader > div.logo_area:nth-child(2) > a:last-child > img
 youtube.com###masthead-ad > ytd-banner-promo-renderer.style-scope.ytd-rich-grid-renderer
+hk.news.yahoo.com###module-stream > ul.List\(n\).P\(0\).stream-items:first-child > li.stream-ad.native-ad-item:nth-child(2) > div.Mx\(-20px\).Mt\(11px\).Px\(0\).Pos\(r\).stream-item.has-beacon-click.has-wafer-click.wafer-beacon-loaded.wafer-destroyed > div.Pos\(r\) > div.wafer-video.Pb\(56\.25\%\).H\(0\).Pos\(r\).wafer-video-complete
+sspai.com###btn-call-app
