@@ -149,3 +149,8 @@ youtube.com###end
 m.youtube.com##ytm-topbar-menu-button-renderer > .topbar-menu-button-avatar-button.icon-button
 m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div.toolbar:nth-child(2) > div.icons:last-child > a:first-child > img
 m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div.toolbar:nth-child(2) > div.icons:last-child
+v2ex.com###Wrapper > div.content > div.box:last-child
+m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div.toolbar:nth-child(2) > div.icons:last-child > a:first-child > img
+m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div.toolbar:nth-child(2) > div.icons:last-child
+m.mobile01.com##div.l-container:nth-child(2) > main.l-main:nth-child(3) > div.fixedbottom:last-child > div.dialog.floating
+lihkg.com###app > div._1DZ_Nn0pmLuOkdbW3sB_4B:nth-child(3) > span:last-child
