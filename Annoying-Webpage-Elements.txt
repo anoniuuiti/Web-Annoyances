@@ -150,3 +150,44 @@ m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div.toolbar:nth-child
 m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div.toolbar:nth-child(2) > div.icons:last-child
 m.mobile01.com##div.l-container:nth-child(2) > main.l-main:nth-child(3) > div.fixedbottom:last-child > div.dialog.floating
 lihkg.com###app > div._1DZ_Nn0pmLuOkdbW3sB_4B:nth-child(3) > span:last-child
+||query2.finance.yahoo.com^$important
+||hkg.aastocks.com^$important
+||gysm.yahoodns.net^$important
+||ybp.yahoo.com^$important
+||pr-bh.ybp.yahoo.com^$important
+||b.gemini.yahoo.com^$important
+||tp2-beap.cb.g01.yahoodns.net^$important
+||adv.lihkg.com^$important
+||adv.lih.kg^$important
+||tracking-1611167402.us-east-1.elb.amazonaws.com^$important
+||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^$important
+||serving-126397893.us-east-1.elb.amazonaws.com^$important
+||rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com^$important
+||quora-prod-log-vpc-1111597382.us-east-1.elb.amazonaws.com^$important
+||p13nlog-1106815646.us-east-1.elb.amazonaws.com^$important
+||events-endpoint-j-660082941.us-east-1.elb.amazonaws.com^$important
+||events-endpoint-i-1172912053.us-east-1.elb.amazonaws.com^$important
+||events-endpoint-g-1919267118.us-east-1.elb.amazonaws.com^$important
+||events-endpoint-e-899663497.us-east-1.elb.amazonaws.com^$important
+||events-endpoint-d-1130254936.us-east-1.elb.amazonaws.com^$important
+||events-endpoint-c-394794954.us-east-1.elb.amazonaws.com^$important
+||atg-etbuf2016-prd-iad1-114281-1326216375.us-east-1.elb.amazonaws.com^$important
+||app1933.kmb.hk^$important
+||adservice.google.com^$important
+||adservice.google.com.hk^$important
+||external.xx.fbcdn.net^$important
+||ads.yap.yahoo.com^$important
+||fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net^$important
+||ganon.yahoo.com^$important
+||s.gycs.b.yahoodns.net^$important
+||partnerads.ysm.yahoo.com^$important
+||track.clickhubs.com^$important
+||rfrl.pw^$important
+||asdkd.tutuapp.com^$important
+m.dgtle.com###app > div:nth-child(2) > div > div.openInApp.cl
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > div.related-chips-slot-wrapper:first-child > ytm-slim-video-metadata-section-renderer.scwnr-content:nth-child(2) > ytm-slim-video-action-bar-renderer:nth-child(2) > div.slim-video-action-bar-actions > c3-material-button.button-renderer.compact:last-child
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > div.related-chips-slot-wrapper:first-child > ytm-slim-video-metadata-section-renderer.scwnr-content:nth-child(2) > ytm-slim-video-action-bar-renderer:nth-child(2) > div.slim-video-action-bar-actions > c3-material-button.button-renderer.compact:nth-child(2)
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > div.related-chips-slot-wrapper:first-child > ytm-slim-video-metadata-section-renderer.scwnr-content:nth-child(2) > ytm-slim-video-action-bar-renderer:nth-child(2) > div.slim-video-action-bar-actions > c3-material-button.button-renderer.compact:first-child
+m.soccer.sina.com.hk###nwlist_app > li.none:nth-child(8) > div.row > div
+openrice.com###layout > section.site-wrap:first-child > div.poi-list-container.view:last-child > div.poi-list-cells:nth-child(5) > div.mobile-ad-banner.v5_Poi_List_organic:nth-child(3) > section > div.ad-flying-carpet
+hk.yahoo.com###headerRegion
