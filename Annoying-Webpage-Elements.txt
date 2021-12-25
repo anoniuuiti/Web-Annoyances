@@ -185,9 +185,6 @@ lihkg.com###app > div._1DZ_Nn0pmLuOkdbW3sB_4B:nth-child(3) > span:last-child
 ||rfrl.pw^$important
 ||asdkd.tutuapp.com^$important
 m.dgtle.com###app > div:nth-child(2) > div > div.openInApp.cl
-m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > div.related-chips-slot-wrapper:first-child > ytm-slim-video-metadata-section-renderer.scwnr-content:nth-child(2) > ytm-slim-video-action-bar-renderer:nth-child(2) > div.slim-video-action-bar-actions > c3-material-button.button-renderer.compact:last-child
-m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > div.related-chips-slot-wrapper:first-child > ytm-slim-video-metadata-section-renderer.scwnr-content:nth-child(2) > ytm-slim-video-action-bar-renderer:nth-child(2) > div.slim-video-action-bar-actions > c3-material-button.button-renderer.compact:nth-child(2)
-m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.big-thumbnail-experiment:last-child > div.related-chips-slot-wrapper:first-child > ytm-slim-video-metadata-section-renderer.scwnr-content:nth-child(2) > ytm-slim-video-action-bar-renderer:nth-child(2) > div.slim-video-action-bar-actions > c3-material-button.button-renderer.compact:first-child
 m.soccer.sina.com.hk###nwlist_app > li.none:nth-child(8) > div.row > div
 openrice.com###layout > section.site-wrap:first-child > div.poi-list-container.view:last-child > div.poi-list-cells:nth-child(5) > div.mobile-ad-banner.v5_Poi_List_organic:nth-child(3) > section > div.ad-flying-carpet
 hk.yahoo.com###headerRegion
