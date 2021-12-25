@@ -203,3 +203,4 @@ m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-c
 m1.mudvod.tv###app > div:first-child > div.page > div:nth-child(2) > div.m-left:last-child > div.footer:last-child
 m1.mudvod.tv###app > div:first-child > div.page > div.bottom-bar:nth-child(3)
 m1.mudvod.tv###nav-content > div:last-child > div.inst-new-tip:last-child > div.inst-container
+mudvod.tv###adSkinInner > div.ph-skin-wrap:last-child > div:nth-child(3)
