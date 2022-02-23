@@ -199,3 +199,4 @@ nbyy.tv###my_saberfeedback_button
 hk01.com###article-content-section > div.LazyLoad.is-visible.sc-4ev7nz-0.itvzUV.mt-4.mb-3.-mx-3.md\:mx-0.l7v9z99:nth-child(17)
 hk01.com###__next > div.o4febr-0.euMltm.app-wrapper.page-article.break-words.theme-zoneViral.text-black-78.page__layout--article.a1ljb0yz > div.pt-navBarMobile.lg\:pt-navBarDesktop.flex-grow.flex-shrink-0.page-wrapper.wip3h7m:nth-child(5) > div.fixed.bottom-0.right-0.left-0.bg-white.z-mobileLcsStack.md\:hidden:nth-child(4)
 hk01.com###article-content-section > div.LazyLoad.is-visible.sc-4ev7nz-0.itvzUV.mt-4.mb-3.-mx-3.md\:mx-0.l7v9z99:nth-child(11)
+google.com##.iTPLzd, .GUHazd, .lUn2nc, .eY4mx
