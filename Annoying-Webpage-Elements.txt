@@ -205,3 +205,5 @@ nbys.tv###my_saberfeedback_button
 duckduckgo.com##.btn, .feedback-btn
 duckduckgo.com##.tag-home__item
 duckduckgo.com##.header__clickable, .js-hl-button
+hk01.com###__next > div.o4febr-0.jjBoKl.app-wrapper.page-article.break-words.theme-zoneViral.text-black-78.page__layout--article.awnsomv > div.pt-navBarMobile.lg\:pt-navBarDesktop.grow.shrink-0.bg-white.page-wrapper:nth-child(3) > div.pt-0.p-3.md\:p-4.lg\:p-6.mx-auto.w-full.lg\:max-w-7xl:nth-child(2) > div.dzlctlu.hidden.lg\:flex.lg\:items-center:first-child
+hk01.com###article-content-section > div.sc-4ev7nz-0.eoXNZh.mt-4.mb-3.l7v9z99:nth-child(10)
