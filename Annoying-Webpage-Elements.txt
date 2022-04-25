@@ -207,3 +207,5 @@ duckduckgo.com##.tag-home__item
 duckduckgo.com##.header__clickable, .js-hl-button
 hk01.com###__next > div.o4febr-0.jjBoKl.app-wrapper.page-article.break-words.theme-zoneViral.text-black-78.page__layout--article.awnsomv > div.pt-navBarMobile.lg\:pt-navBarDesktop.grow.shrink-0.bg-white.page-wrapper:nth-child(3) > div.pt-0.p-3.md\:p-4.lg\:p-6.mx-auto.w-full.lg\:max-w-7xl:nth-child(2) > div.dzlctlu.hidden.lg\:flex.lg\:items-center:first-child
 hk01.com###article-content-section > div.sc-4ev7nz-0.eoXNZh.mt-4.mb-3.l7v9z99:nth-child(10)
+hk.jobsdb.com###contentContainer > div > div.sx2jih0.zcydq8p.zcydq8v._1xiw5030:nth-child(2) > div.sx2jih0.zcydq866.zcydq86v.zcydq876.zcydq87v > div.sx2jih0.zcydq89i.zcydq89w.zcydq88i.zcydq88w > div.sx2jih0:nth-child(2) > div.sx2jih0.H3TC6_0:last-child > div.sx2jih0.zcydq84u.zcydq857.zcydq8f6.zcydq8ez.zcydq8em._17fduda2a._17fduda2b > div.sx2jih0.zcydq8r.zcydq8fm._16wtmva0:last-child
+hk.jobsdb.com###contentContainer > div > div.sx2jih0.zcydq8p.zcydq8v._1xiw5030:nth-child(2) > div.sx2jih0.zcydq866.zcydq86v.zcydq876.zcydq87v > div.sx2jih0.zcydq89i.zcydq89w.zcydq88i.zcydq88w > div.sx2jih0.zcydq86i.zcydq86r:last-child
