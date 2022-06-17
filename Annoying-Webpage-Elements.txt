@@ -212,3 +212,8 @@ hk.jobsdb.com###contentContainer > div > div.sx2jih0.zcydq8p.zcydq8v._1xiw5030:n
 www.scmp.com##.header-ad-slot.page__header-ad-slot
 www.scmp.com##.middle-diff-area
 www.scmp.com##div.card-item:nth-of-type(3)
+! 2022-05-27 https://www.scmp.com
+www.scmp.com##.ad-area.subscribe-container__ad-area
+
+! 2022-06-17 https://hk.jobsdb.com
+hk.jobsdb.com##.zcydq835.zcydq832._18qlyvc17._18qlyvc14.C1mZc_0.sZ9UQ_0.ZprqJ_0.zcydq88s.zcydq88f.zcydq88e.zcydq89i.zcydq87e.zcydq86e.sx2jih0
