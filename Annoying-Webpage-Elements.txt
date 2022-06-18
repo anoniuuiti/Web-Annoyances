@@ -233,3 +233,4 @@ www.scmp.com##.content--h3.article-details-type--h3.generic-article__body
 www.scmp.com##.covid-content-lead__inline_newsletter
 www.scmp.com##.advert
 www.scmp.com##.top-stories-ad.super-section__top-stories-ad
+www.scmp.com##.content--h3.article-details-type--h3.opinion-article__body
