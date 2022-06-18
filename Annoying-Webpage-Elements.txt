@@ -217,3 +217,19 @@ www.scmp.com##.ad-area.subscribe-container__ad-area
 
 ! 2022-06-17 https://hk.jobsdb.com
 hk.jobsdb.com##.zcydq835.zcydq832._18qlyvc17._18qlyvc14.C1mZc_0.sZ9UQ_0.ZprqJ_0.zcydq88s.zcydq88f.zcydq88e.zcydq89i.zcydq87e.zcydq86e.sx2jih0
+
+! 2022-06-17 https://www.scmp.com
+www.scmp.com##.head__topic--wide
+www.scmp.com##.contents__widget--wide.contents__widget
+www.scmp.com##.others.row__others
+www.scmp.com##.contents__widget
+www.scmp.com##.others.row__others
+www.scmp.com##.paywall-subscription-button
+www.scmp.com##.sign-in-button__container--new.sign-in-button__container--row.global-menu-features__sign-in-button.sign-in-button__container
+www.scmp.com##.subscribe-area.subscribe-container__subscribe-area
+www.scmp.com##.right-content.third-article__right-content
+www.scmp.com##.recirc
+www.scmp.com##.content--h3.article-details-type--h3.generic-article__body
+www.scmp.com##.covid-content-lead__inline_newsletter
+www.scmp.com##.advert
+www.scmp.com##.top-stories-ad.super-section__top-stories-ad
