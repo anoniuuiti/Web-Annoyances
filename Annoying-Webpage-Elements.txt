@@ -234,3 +234,8 @@ www.scmp.com##.covid-content-lead__inline_newsletter
 www.scmp.com##.advert
 www.scmp.com##.top-stories-ad.super-section__top-stories-ad
 www.scmp.com##.content--h3.article-details-type--h3.opinion-article__body
+! 2022-06-21 https://www.scmp.com
+www.scmp.com##.top-ad.page-container__top-ad
+
+! 2022-06-23 https://hk.jobsdb.com
+hk.jobsdb.com##div.zcydq86i.sx2jih0
