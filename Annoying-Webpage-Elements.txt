@@ -6,11 +6,6 @@ lihkg.com##._1ND4IvZZQRokGesVd9vq9W
 lihkg.com###app > div.K8RRn4bHyCRrG1IjoFbTr:last-child
 mobile01.com###div-gpt-ad-1564559378500-0
 youtube.com###masthead-ad
-google.com##.LHJvCe
-google.com##.TbwUpd, .NJjxre
-google.com##.eFM0qc
-google.com##.ULSxyf
-google.com.hk##.xTFaxe, .z1asCe, .SaPW2b
 @@||cdn1.i-scmp.com/sites/default/files/styles/300x250/public/topics/$domain=scmp.com,important
 @@||cdn.i-scmp.com/sites/default/files/styles/300x250/public/d8/topics/$domain=scmp.com,important
 hk.news.yahoo.com##.sticky-inner-wrapper
@@ -52,7 +47,6 @@ hk.jobsdb.com###contentContainer > div > div.FYwKg._3VCZm._1oSMT_0._2lrrP:last-c
 hk.jobsdb.com###contentContainer > div > div.FYwKg._3VCZm._1oSMT_0._2lrrP:last-child > div.FYwKg.fB92N_0._1yPon_0._1pAdR_0._1WtCj_0 > div.FYwKg._3RqUb_0._85X-f_0._1YKq0_0._2wyod_0 > div.FYwKg:nth-child(2) > div.FYwKg._3qNFt_0:last-child > div.FYwKg._2Bz3E._2II51_0._1lyEa.IC4bo_0._3i7ia._3ucB1_0._2VNVi_0 > div.FYwKg._1uk_1._1Epz5._3Ve9Z:last-child > div.FYwKg._1GAuD.fB92N_0._2JU1c_0.hLznC_0._3f7MY_0._3ftyQ._3hAhl_0._3i7ia._1tfFt > div.FYwKg.d7v3r._2uGS9_0:last-child > div.FYwKg.zoxBO_0:last-child > div.FYwKg._1db4i_0 > div
 hk.jobsdb.com###contentContainer > div > div.FYwKg._3VCZm._1oSMT_0._2lrrP:last-child > div.FYwKg.fB92N_0._1yPon_0._1pAdR_0._1WtCj_0 > div.FYwKg._3RqUb_0._85X-f_0._1YKq0_0._2wyod_0 > div.FYwKg:nth-child(2) > div.FYwKg._3qNFt_0:last-child > div.FYwKg._2Bz3E._2II51_0._1lyEa.IC4bo_0._3i7ia._3ucB1_0._2VNVi_0 > div.FYwKg._1uk_1._1Epz5._3Ve9Z:last-child > div.FYwKg._1GAuD.fB92N_0._2JU1c_0.hLznC_0._3f7MY_0._3ftyQ._3hAhl_0._3i7ia._1tfFt > div.FYwKg.d7v3r._2uGS9_0:last-child > div.FYwKg.zoxBO_0:last-child
 hk.jobsdb.com###contentContainer > div > div.FYwKg._3VCZm._1oSMT_0._2lrrP:last-child > div.FYwKg.fB92N_0._1yPon_0._1pAdR_0._1WtCj_0 > div.FYwKg._3RqUb_0._85X-f_0._1YKq0_0._2wyod_0 > div.FYwKg:nth-child(2) > div.FYwKg._3qNFt_0:last-child > div.FYwKg._2Bz3E._2II51_0._1lyEa.IC4bo_0._3i7ia._3ucB1_0._2VNVi_0 > div.FYwKg._1uk_1._1Epz5._3Ve9Z:last-child > div.FYwKg._1GAuD.fB92N_0._2JU1c_0.hLznC_0._3f7MY_0._3ftyQ._3hAhl_0._3i7ia._1tfFt
-google.com###gb > div.gb_Xd.gb_Ta.gb_Jd > div:nth-child(4) > iframe
 scmp.com##.newsletter__container, .newsletter--black, .newsletter--vertical, .newsletter--border-dark
 office.com##.feedback-header
 economist.com##.article__aside
@@ -65,7 +59,6 @@ unwire.hk###cookie
 wired.com###failsafe-clickthrough > div.paywall-modal__container:last-child > div.paywall-modal__content.cm-failsafe
 wired.com###app-root > div.page.page-theme-standard.page--article > div.sc-fujyAs.eysHZq:nth-child(6)
 scmp.com##.custom-banner--wrapper
-https://accounts.google.com/gsi/iframe/select?client_id=162566681241-9friud7g8i7e5aj9q6ahfr08sfbct8hg.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&state=%7B%22destination%22%3A%22https%3A%2F%2Fwww.scmp.com%2Feconomy%2Fchina-economy%2Farticle%2F3136503%2Fwhy-chinas-youth-are-lying-flat-protest-their-bleak-economic%22%2C%22callbackUrl%22%3A%22https%3A%2F%2Fwww.scmp.com%2Fcentralize%2Fsignin%3Fnonce%3D%22%2C%22appID%22%3A%22325477%22%2C%22gaProfileID%22%3A%22UA-6891676-1%22%7D&as=rwZ4vHtvvm9w9zgnx9lTtA&channel_id=be539c685df627ebebe6dc66786336677c90836536315f4acb33f0c8ab40cf4d&origin=https%3A%2F%2Fwww.scmp.com$domain=scmp.com
 scmp.com###credential_picker_container > iframe
 https://accounts.google.com/gsi/iframe/select?client_id=162566681241-9friud7g8i7e5aj9q6ahfr08sfbct8hg.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&state=%7B%22destination%22%3A%22https%3A%2F%2Fwww.scmp.com%2Fcomment%2Fopinion%2Farticle%2F3136648%2Ftime-government-nudge-unit-hong-kong%22%2C%22callbackUrl%22%3A%22https%3A%2F%2Fwww.scmp.com%2Fcentralize%2Fsignin%3Fnonce%3D%22%2C%22appID%22%3A%22325477%22%2C%22gaProfileID%22%3A%22UA-6891676-1%22%7D&as=NH2Ofzt36Yllr7Erh9wZUA&channel_id=e51431db4b23d56ef4f67e7063dcdbd5edac839865b9226ba01bbbf0d95a7537&origin=https%3A%2F%2Fwww.scmp.com$domain=scmp.com
 hk.yahoo.com###dialogue-wrapper > div.Pos\(a\).End\(0\).B\(0\) > div.wafer-tooltip.has-tooltip-click.has-wafer-click.wafer-tooltip-done:first-child > div.wafer-tooltip-wrapper:last-child > div.header-dialogue-container.D\(f\).Pos\(a\).Bgc\(\#fff\).Bdrs\(8px\).Bxsh\(\$featureCueShadow\).End\(165px\)\:\:b.End\(0\).T\(-40px\)
@@ -129,7 +122,6 @@ hk.news.yahoo.com###footer-1-BackToTop > div.Bxz\(bb\).Bgc\(\#abaeb7\).Bdrs\(3px
 m.soccer.sina.com.hk###content > div.row:nth-child(6)
 m.soccer.sina.com.hk###content > div.row:last-child > div
 m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div:nth-child(7)
-google.com.hk###stUuGf > div > div.FAVrq.VDgVie.it9gVe.gdwOPe.mB14jb.eofmDb:last-child > div.uysxde.KKUuQd > div.LXauYe
 m.soccer.sina.com.hk###content > div.row:nth-child(8) > div
 scmp.com###main-content > div.author-content.page:first-child > div.content-wrapper:first-child > div.content-box:last-child > div.author-wrapper:last-child > div.author-wrapper-bottom:last-child > div.wrapper-bottom-left:first-child > div.wrapper-bottom-left__ad-container:nth-child(6)
 instagram.com###react-root > div > div > section._9eogI.E3X2T:last-child > div.Z_Gl2:last-child > div.qF0y9.Igw0E.rBNOH.YBx95._4EzTm.HVWg4
@@ -173,8 +165,6 @@ lihkg.com###app > div._1DZ_Nn0pmLuOkdbW3sB_4B:nth-child(3) > span:last-child
 ||events-endpoint-c-394794954.us-east-1.elb.amazonaws.com^$important
 ||atg-etbuf2016-prd-iad1-114281-1326216375.us-east-1.elb.amazonaws.com^$important
 ||app1933.kmb.hk^$important
-||adservice.google.com^$important
-||adservice.google.com.hk^$important
 ||external.xx.fbcdn.net^$important
 ||ads.yap.yahoo.com^$important
 ||fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net^$important
@@ -199,7 +189,6 @@ nbyy.tv###my_saberfeedback_button
 hk01.com###article-content-section > div.LazyLoad.is-visible.sc-4ev7nz-0.itvzUV.mt-4.mb-3.-mx-3.md\:mx-0.l7v9z99:nth-child(17)
 hk01.com###__next > div.o4febr-0.euMltm.app-wrapper.page-article.break-words.theme-zoneViral.text-black-78.page__layout--article.a1ljb0yz > div.pt-navBarMobile.lg\:pt-navBarDesktop.flex-grow.flex-shrink-0.page-wrapper.wip3h7m:nth-child(5) > div.fixed.bottom-0.right-0.left-0.bg-white.z-mobileLcsStack.md\:hidden:nth-child(4)
 hk01.com###article-content-section > div.LazyLoad.is-visible.sc-4ev7nz-0.itvzUV.mt-4.mb-3.-mx-3.md\:mx-0.l7v9z99:nth-child(11)
-google.com##.iTPLzd, .GUHazd, .lUn2nc, .eY4mx
 nbys.tv###adSkinInner > div.ph-skin-wrap:last-child > div:nth-child(3)
 nbys.tv###my_saberfeedback_button
 duckduckgo.com##.btn, .feedback-btn
