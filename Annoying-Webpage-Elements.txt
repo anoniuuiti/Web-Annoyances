@@ -233,3 +233,8 @@ www.reuters.com##.regular-article-layout__right-rail__3o6zT
 ! 2022-06-25 https://hk.jobsdb.com
 hk.jobsdb.com##._16wtmva0.zcydq8fm.zcydq8r.sx2jih0 > ._16wtmva1.zcydq8em.zcydq84v.zcydq856.zcydq8n.zcydq873.zcydq866.zcydq897.zcydq8a2.sx2jih0
 hk.jobsdb.com##.u4Gsb_0.zcydq85a.sx2jih0
+
+! 2022-07-03 https://www.economist.com
+www.economist.com##.hidden.top.advert
+www.economist.com##.ey1yhxa8.css-sl0bi6
+www.economist.com##.hidden.top.advert
