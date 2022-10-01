@@ -249,3 +249,8 @@ www.nivod.tv##.j-version-1051.J-app-download.header-download.header-sideItem.T-d
 www.nivod.tv###nav_message
 www.nivod.tv###nav_msg
 www.nivod.tv##.j-version-1070.header-user.header-sideItem
+
+! 2022-10-01 https://www.nivod.tv
+www.nivod.tv##.qy-episode-side.qy-player-side > [href]
+www.nivod.tv##.player-mnb
+www.nivod.tv###user div
