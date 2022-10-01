@@ -243,3 +243,9 @@ www.economist.com##.hidden.top.advert
 www.nivod.tv##.ph-skin-wrap > div:nth-of-type(2)
 www.nivod.tv###my_saberfeedback_button > span
 www.nivod.tv##.m-goTop
+
+! 2022-10-01 https://www.nivod.tv
+www.nivod.tv##.j-version-1051.J-app-download.header-download.header-sideItem.T-drop-hover
+www.nivod.tv###nav_message
+www.nivod.tv###nav_msg
+www.nivod.tv##.j-version-1070.header-user.header-sideItem
