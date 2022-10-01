@@ -238,3 +238,8 @@ hk.jobsdb.com##.u4Gsb_0.zcydq85a.sx2jih0
 www.economist.com##.hidden.top.advert
 www.economist.com##.ey1yhxa8.css-sl0bi6
 www.economist.com##.hidden.top.advert
+
+! 2022-10-01 https://www.nivod.tv
+www.nivod.tv##.ph-skin-wrap > div:nth-of-type(2)
+www.nivod.tv###my_saberfeedback_button > span
+www.nivod.tv##.m-goTop
