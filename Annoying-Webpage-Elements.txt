@@ -254,3 +254,6 @@ www.nivod.tv##.j-version-1070.header-user.header-sideItem
 www.nivod.tv##.qy-episode-side.qy-player-side > [href]
 www.nivod.tv##.player-mnb
 www.nivod.tv###user div
+
+! 2022-11-14 https://docs.rsshub.app
+docs.rsshub.app##.sidebar > div
