@@ -261,3 +261,13 @@ docs.rsshub.app##.sidebar > div
 ! 2022-12-02 https://www.nivod.tv
 www.nivod.tv###copytoshareAlert
 www.nivod.tv##.cover
+www.nivod.tv###user div
+www.nivod.tv###user div
+
+openrice.com###layout > section.app-footer.or-theme-bgy.mobile-layout-footer:nth-child(3)
+openrice.com###layout > div.smart-banner-collection:nth-child(6)
+openrice.com###smart-banner-collection
+scmp.com###app > div.my-news-landing-popup:nth-child(9)
+
+! 2022-12-11 https://www.openrice.com
+www.openrice.com##.pois-right-panel
