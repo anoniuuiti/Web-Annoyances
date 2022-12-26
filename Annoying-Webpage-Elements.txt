@@ -271,3 +271,7 @@ scmp.com###app > div.my-news-landing-popup:nth-child(9)
 
 ! 2022-12-11 https://www.openrice.com
 www.openrice.com##.pois-right-panel
+
+google.com.hk###_CdWpY_mjK9eghwOfw7egDQ_9
+openrice.com##footer:nth-child(12)
+hk01.com###lcs-stack-sticky-bottom
