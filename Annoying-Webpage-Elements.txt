@@ -275,3 +275,8 @@ www.openrice.com##.pois-right-panel
 google.com.hk###_CdWpY_mjK9eghwOfw7egDQ_9
 openrice.com##footer:nth-child(12)
 hk01.com###lcs-stack-sticky-bottom
+
+! 2023-01-13 https://www.youtube.com
+www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.title
+www.youtube.com##yt-button-shape
+www.youtube.com###block-youtube-ads-logo
