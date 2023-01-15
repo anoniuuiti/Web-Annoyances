@@ -287,3 +287,6 @@ www.youtube.com###channel-name > ytd-badge-supported-renderer.ytd-channel-name.s
 www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
 www.youtube.com###title-container
 www.youtube.com###secondary > .ytd-two-column-browse-results-renderer.style-scope
+
+hk01.com###lcs-stack-sticky-bottom
+google.com.hk###_Os2wY-TlIKzh4-EPx6SGoAs_9
