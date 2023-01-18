@@ -290,3 +290,6 @@ www.youtube.com###secondary > .ytd-two-column-browse-results-renderer.style-scop
 
 hk01.com###lcs-stack-sticky-bottom
 google.com.hk###_Os2wY-TlIKzh4-EPx6SGoAs_9
+
+! 2023-01-18 https://www.youtube.com
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
