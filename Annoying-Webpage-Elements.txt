@@ -299,3 +299,27 @@ www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 
 ! 2023-01-24 https://www.youtube.com
 www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
+
+! 2023-01-25 https://www.scmp.com
+www.scmp.com##.article--is-active.article--first.article.opinion-article > .wrapper.article__wrapper > .contents.wrapper__contents > .main.contents__main > .main-left.main__left
+www.scmp.com##.header-ad-slot.article__header-ad-slot
+
+! 2023-01-27 https://www.discuss.com.hk
+www.discuss.com.hk##div.main-content.ds-container:nth-of-type(1)
+www.discuss.com.hk##.footer-container > tbody > tr > td
+www.discuss.com.hk###contentbody > tbody > tr > td:nth-of-type(1) > div:nth-of-type(6)
+www.discuss.com.hk##.hotlive
+www.discuss.com.hk##.header-promote
+www.discuss.com.hk##.ranking-homepage-container
+www.discuss.com.hk###footer
+www.discuss.com.hk##.fancybox-can-swipe.fancybox-is-open.fancybox-container
+
+! 2023-01-27 https://www.scmp.com
+www.scmp.com##.lazyload-component__hero-video
+www.scmp.com##div.align--bottom.opinion--default.opinion-content__article-level.article.article-level-ten.article-level > .theme-grey.status.article__status
+www.scmp.com##.align--bottom.opinion--default.article-level--no-spacer.article-level--preserve.article-level--first.opinion-section__article-level.article.article-level-ten.article-level > .theme-grey.status.article__status
+www.scmp.com##.header-menu-container__menu-bottom-left-wrapper > .mega-menu-tab--INT.mega-menu-tab--white.mega-menu-tab > .mega-menu-tab__item--my-news.mega-menu-tab__item
+www.scmp.com##.footer-wrapper__social
+www.scmp.com##.footer-wrapper__widget
+www.scmp.com##.footer-wrapper__bottom
+www.scmp.com##.story-package-widget__inline_newsletter
