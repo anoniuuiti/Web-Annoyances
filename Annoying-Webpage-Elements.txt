@@ -301,7 +301,6 @@ www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
 
 ! 2023-01-25 https://www.scmp.com
-www.scmp.com##.article--is-active.article--first.article.opinion-article > .wrapper.article__wrapper > .contents.wrapper__contents > .main.contents__main > .main-left.main__left
 www.scmp.com##.header-ad-slot.article__header-ad-slot
 
 ! 2023-01-27 https://www.discuss.com.hk
