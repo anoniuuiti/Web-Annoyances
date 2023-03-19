@@ -307,3 +307,4 @@ www.youtube.com###metadata-line
 www.youtube.com###channel-name
 www.youtube.com###buttons
 www.youtube.com###menu
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
