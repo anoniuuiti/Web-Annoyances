@@ -301,5 +301,9 @@ www.scmp.com##.story-package-widget__inline_newsletter
 www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.title
 www.youtube.com###container > button
 www.youtube.com###end
-www.youtube.com###container > button
 www.youtube.com###voice-search-button
+www.youtube.com##.yt-formatted-string.style-scope.yt-simple-endpoint
+www.youtube.com###metadata-line
+www.youtube.com###channel-name
+www.youtube.com###buttons
+www.youtube.com###menu
