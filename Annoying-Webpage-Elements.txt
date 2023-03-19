@@ -131,10 +131,8 @@ m.soccer.sina.com.hk###content > div.row:last-child > div
 m.soccer.sina.com.hk###content > div.row:nth-child(8) > div
 instagram.com###react-root > div > div > section._9eogI.E3X2T:last-child > div.Z_Gl2:last-child > div.qF0y9.Igw0E.rBNOH.YBx95._4EzTm.HVWg4
 m.soccer.sina.com.hk###mainHeader > div.logo_area:nth-child(2) > a:last-child > img
-youtube.com###masthead-ad > ytd-banner-promo-renderer.style-scope.ytd-rich-grid-renderer
 hk.news.yahoo.com###module-stream > ul.List\(n\).P\(0\).stream-items:first-child > li.stream-ad.native-ad-item:nth-child(2) > div.Mx\(-20px\).Mt\(11px\).Px\(0\).Pos\(r\).stream-item.has-beacon-click.has-wafer-click.wafer-beacon-loaded.wafer-destroyed > div.Pos\(r\) > div.wafer-video.Pb\(56\.25\%\).H\(0\).Pos\(r\).wafer-video-complete
 sspai.com###btn-call-app
-youtube.com###end
 m.youtube.com##ytm-topbar-menu-button-renderer > .topbar-menu-button-avatar-button.icon-button
 m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div.toolbar:nth-child(2) > div.icons:last-child > a:first-child > img
 m.soccer.sina.com.hk###content > div.nw.row:nth-child(3) > div.toolbar:nth-child(2) > div.icons:last-child
@@ -276,27 +274,8 @@ google.com.hk###_CdWpY_mjK9eghwOfw7egDQ_9
 openrice.com##footer:nth-child(12)
 hk01.com###lcs-stack-sticky-bottom
 
-! 2023-01-13 https://www.youtube.com
-www.youtube.com##yt-button-shape
-www.youtube.com###block-youtube-ads-logo
-
-! 2023-01-13 https://www.youtube.com
-www.youtube.com###details > .ytd-rich-grid-media.style-scope.yt-simple-endpoint
-www.youtube.com###channel-name > ytd-badge-supported-renderer.ytd-channel-name.style-scope
-www.youtube.com###title-container
-www.youtube.com###secondary > .ytd-two-column-browse-results-renderer.style-scope
-
 hk01.com###lcs-stack-sticky-bottom
 google.com.hk###_Os2wY-TlIKzh4-EPx6SGoAs_9
-
-! 2023-01-18 https://www.youtube.com
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
-
-! 2023-01-24 https://www.youtube.com
-www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
-
-! 2023-01-25 https://www.scmp.com
-www.scmp.com##.header-ad-slot.article__header-ad-slot
 
 ! 2023-01-27 https://www.discuss.com.hk
 www.discuss.com.hk##div.main-content.ds-container:nth-of-type(1)
@@ -317,6 +296,3 @@ www.scmp.com##.footer-wrapper__social
 www.scmp.com##.footer-wrapper__widget
 www.scmp.com##.footer-wrapper__bottom
 www.scmp.com##.story-package-widget__inline_newsletter
-
-! 2023-03-18 https://www.youtube.com
-www.youtube.com###container > button
