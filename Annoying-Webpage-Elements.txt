@@ -277,14 +277,12 @@ openrice.com##footer:nth-child(12)
 hk01.com###lcs-stack-sticky-bottom
 
 ! 2023-01-13 https://www.youtube.com
-www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.title
 www.youtube.com##yt-button-shape
 www.youtube.com###block-youtube-ads-logo
 
 ! 2023-01-13 https://www.youtube.com
 www.youtube.com###details > .ytd-rich-grid-media.style-scope.yt-simple-endpoint
 www.youtube.com###channel-name > ytd-badge-supported-renderer.ytd-channel-name.style-scope
-www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
 www.youtube.com###title-container
 www.youtube.com###secondary > .ytd-two-column-browse-results-renderer.style-scope
 
@@ -293,9 +291,6 @@ google.com.hk###_Os2wY-TlIKzh4-EPx6SGoAs_9
 
 ! 2023-01-18 https://www.youtube.com
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
-
-! 2023-01-23 https://www.youtube.com
-www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 
 ! 2023-01-24 https://www.youtube.com
 www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
