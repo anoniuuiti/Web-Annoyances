@@ -296,20 +296,3 @@ www.scmp.com##.footer-wrapper__social
 www.scmp.com##.footer-wrapper__widget
 www.scmp.com##.footer-wrapper__bottom
 www.scmp.com##.story-package-widget__inline_newsletter
-
-! 2023-03-19 https://www.youtube.com
-www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.title
-www.youtube.com###container > button
-www.youtube.com###end
-www.youtube.com###voice-search-button
-www.youtube.com##.yt-formatted-string.style-scope.yt-simple-endpoint
-www.youtube.com###metadata-line
-www.youtube.com###channel-name
-www.youtube.com###buttons
-www.youtube.com###menu
-www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
-www.youtube.com##.ytd-compact-video-renderer.style-scope.badges
-www.youtube.com###header
-www.youtube.com###toolbar
-www.youtube.com###action-menu
-www.youtube.com###sponsor-button
