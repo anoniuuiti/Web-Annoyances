@@ -296,3 +296,10 @@ www.scmp.com##.footer-wrapper__social
 www.scmp.com##.footer-wrapper__widget
 www.scmp.com##.footer-wrapper__bottom
 www.scmp.com##.story-package-widget__inline_newsletter
+
+! 2023-03-19 https://www.youtube.com
+www.youtube.com###bottom-row
+www.youtube.com###actions
+
+! 2023-04-01 https://www.youtube.com
+www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.title
