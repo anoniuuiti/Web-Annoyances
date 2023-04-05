@@ -303,3 +303,36 @@ www.youtube.com###actions
 
 ! 2023-04-01 https://www.youtube.com
 www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.title
+
+! 2023-04-01 https://www.scmp.com
+www.scmp.com##.author > .article-author--single-author.article-author > .article-author__information--single-author-padding.article-author__information > .article-author__main-info > .article-author__names > .article-author__follow-button > .follow-button--blue.follow-button > .follow-button--thin.follow-button__follow
+www.scmp.com##div.global-menu-features__feature-container:nth-of-type(3)
+www.scmp.com##.global-menu-features__feature-container--notification-widget.global-menu-features__feature-container
+www.scmp.com##.e13wb1vn0.css-1iphn3n
+www.scmp.com##.css-1slps5s.MuiBadge-overlapRectangular.MuiBadge-anchorOriginTopRightRectangular.MuiBadge-anchorOriginTopRight.MuiBadge-dot.MuiBadge-badge
+www.scmp.com##.sa-avatar-widget__wrapper
+www.scmp.com##.e6rrmqs0.css-153k1mf
+
+! 2023-04-04 https://www.youtube.com
+www.youtube.com###action-buttons
+www.youtube.com###header-author
+www.youtube.com###simple-box
+www.youtube.com##.ytd-comment-renderer.style-scope > .ytd-menu-renderer.style-scope.dropdown-trigger
+
+! 2023-04-05 https://www.scmp.com
+www.scmp.com##.section-content-top__weather
+www.scmp.com##.global-menu-features__feature-container--notification-widget.global-menu-features__feature-container
+www.scmp.com##div.global-menu-features__feature-container:nth-of-type(3)
+
+! 2023-04-05 https://www.youtube.com
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com###right-arrow > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-verified.badge > yt-icon.ytd-badge-supported-renderer.style-scope
+www.youtube.com###buttons
+www.youtube.com###text-container
+www.youtube.com##.ytd-rich-grid-media.style-scope.video-badge
+www.youtube.com###left-arrow > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com##.ytd-comment-renderer.style-scope > .ytd-menu-renderer.style-scope.dropdown-trigger
+www.youtube.com###action-buttons
+www.youtube.com###header-author
