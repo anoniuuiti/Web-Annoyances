@@ -336,3 +336,40 @@ www.youtube.com###left-arrow > .ytd-feed-filter-chip-bar-renderer.style-scope
 www.youtube.com##.ytd-comment-renderer.style-scope > .ytd-menu-renderer.style-scope.dropdown-trigger
 www.youtube.com###action-buttons
 www.youtube.com###header-author
+
+! 2023-04-05 https://www.youtube.com
+www.youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
+www.youtube.com###header-author
+www.youtube.com###toolbar
+www.youtube.com###simple-box
+www.youtube.com###action-menu
+www.youtube.com###content-text > .yt-formatted-string.style-scope.yt-simple-endpoint
+www.youtube.com###buttons
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-verified.badge
+www.youtube.com###right-arrow-button > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com###left-arrow-button > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com###sponsor-button
+
+! 2023-04-05 https://www.scmp.com
+www.scmp.com##.section-content-top__weather
+
+! 2023-04-19 https://www.youtube.com
+www.youtube.com###sponsor-button
+www.youtube.com###right-arrow > .yt-chip-cloud-renderer.style-scope
+www.youtube.com###left-arrow > .yt-chip-cloud-renderer.style-scope
+
+! 2023-04-22 https://www.youtube.com
+www.youtube.com###always-shown > .ytd-metadata-row-container-renderer.style-scope
+
+! 2023-04-29 https://www.youtube.com
+youtube.com###upsell-dialog-text > a[href*="sign"]:upward(body > * > *)
+youtube.com##.opened:not(.ytcp-bulk-actions):remove()
+youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Related to your search/i))
+youtube.com##ytd-shelf-renderer:has-text(/People also watched/)
+youtube.com###contents > ytd-shelf-renderer:has-text(/For you/)
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Watch again/i))
+youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has(span:has-text(/Searches related to/i))
+youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Learn while you're at home/i))
+youtube.com##ytd-shelf-renderer:has-text(/Previously watched/)
