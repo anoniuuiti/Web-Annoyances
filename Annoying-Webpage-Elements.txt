@@ -373,3 +373,26 @@ youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Watch again/i))
 youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has(span:has-text(/Searches related to/i))
 youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Learn while you're at home/i))
 youtube.com##ytd-shelf-renderer:has-text(/Previously watched/)
+
+m.facebook.com###screen-root > div.m.bg-s1.dialog-screen:last-child
+m.mobile01.com##div.l-container:nth-child(2) > main.l-main:nth-child(3) > div.l-mainContainer:first-child > div.l-wrap > div.u-gapNextV--lg.u-gapBottom--lg.u-ad-image.u-height280:nth-child(2)
+m.discuss.com.hk###footer
+m.discuss.com.hk###vtgcm
+hk.ulifestyle.com.hk##div.modal-backdrop.show:last-child
+hk.ulifestyle.com.hk###open-in-modal
+hk.ulifestyle.com.hk##div.site-container:nth-child(12) > div.site-pusher > div.infinite-container:nth-child(7) > div.infinite-article > div.article-content:first-child > div.container.some-other-area.persist-area:last-child > div.row:first-child > div.page-left.col-xs-12.col-sm-12.col-md-8.col-lg-8:first-child > div:first-child
+hk.ulifestyle.com.hk##div.site-container:nth-child(12) > div.site-pusher > div.infinite-container:nth-child(7) > div.infinite-article > div.article-content:first-child > section.article-head:first-child > div.top-theme > div.wrapper:last-child
+hk.ulifestyle.com.hk###content-main > div.margin-b > div.content-lazy:first-child > p.p1:nth-child(3)
+hk.ulifestyle.com.hk###content-main > div.margin-b > div.content-lazy:first-child > p.p1:nth-child(4)
+hk.ulifestyle.com.hk###content-main > div.margin-b > div.content-lazy:first-child > p.p1:nth-child(6)
+hk.ulifestyle.com.hk###content-main > div.margin-b > div.content-lazy:first-child > p.p1:nth-child(2)
+hk.ulifestyle.com.hk###content-main > div.margin-b > div.content-lazy:first-child > p.p1:nth-child(5)
+hk.ulifestyle.com.hk###section-bar
+hk.ulifestyle.com.hk##div.site-container:nth-child(12) > div.site-pusher > div.stick-share.nav-down:nth-child(10) > div.inner-block > div.share
+hk.ulifestyle.com.hk##div.site-container:nth-child(12) > div.site-pusher > div.stick-progress.with--openApp.nav-down-1:nth-child(6)
+hk.ulifestyle.com.hk###Open-appLink-banner
+google.com.hk###stUuGf
+openrice.com###layout > section.site-wrap:first-child > div.home.view:last-child > div.home-mobile > div:nth-child(6)
+openrice.com###layout > section.site-wrap:first-child > div.home.view:last-child > div.home-mobile > div:nth-child(5)
+m.mobile01.com###fancybox-container-1
+hk.yahoo.com###footerRegion
